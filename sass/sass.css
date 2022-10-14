@@ -4,7 +4,39 @@
   display: grid;
   grid-auto-rows: minmax(1fr, auto);
   grid-auto-columns: minmax(1fr, auto);
-  grid-template-areas: "head head head head head head head" "head head head head head head head" "side navi navi navi navi navi sid " "side navi navi navi navi navi sid " "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side hea hea hea hea hea      sid" "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "side cont cont cont cont cont sid " "foot foot foot foot foot foot foot" "foot foot foot foot foot foot foot" "foot foot foot foot foot foot foot" "foot foot foot foot foot foot foot" "foot foot foot foot foot foot foot";
+  grid-template-areas: 
+    "head head head head head head head"
+    "head head head head head head head" 
+    "side navi navi navi navi navi sid " 
+    "side navi navi navi navi navi sid " 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side hea hea hea hea hea      sid" 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "side cont cont cont cont cont sid " 
+    "foot foot foot foot foot foot foot" 
+    "foot foot foot foot foot foot foot" 
+    "foot foot foot foot foot foot foot" 
+    "foot foot foot foot foot foot foot" 
+    "foot foot foot foot foot foot foot";
   row-gap: 30px;
   -moz-column-gap: 20px;
        column-gap: 20px;
