@@ -2,8 +2,7 @@
   margin: 0% 0%;
   background: rgb(236, 236, 236);
   display: grid;
-  grid-auto-rows: minmax(1fr, auto);
-  grid-auto-columns: minmax(1fr, auto);
+
   grid-template-areas: 
     "head head head head head head head"
     "head head head head head head head" 
