@@ -42,8 +42,8 @@
         "foot foot foot foot foot foot foot"
         "foot foot foot foot foot foot foot";
 
-    row-gap: 30px;
-    column-gap: 20px;
+//     row-gap: 30px;
+//     column-gap: 20px;
 
 
 
@@ -54,14 +54,12 @@
 
 .head2 {
 
-    border-radius: 50px;
+    border-radius: 10px;
     align-items: center;
-    justify-self: center;
-    padding-top: 20px;
-    margin-top: 20px;
-    min-height: 200px;
-    max-height: 500px;
-
+     margin-top: 10px;
+   
+  
+height: fit-content;
     background-color: rgb(255, 255, 255);
     text-align: center;
     color: #7c7c7c;
@@ -71,18 +69,13 @@
 
 
 .general {
-    margin: 0px 100px;
-
-    border: 5px solid rgb(255, 255, 255);
     border-radius: 10px;
-
-
+    margin: 5px 10px;
     background-color: rgb(255, 255, 255);
     justify-items: center;
     align-items: center;
     text-align: center;
-
-
+     border: 40px solid rgb(255, 255, 255);
     color: #a8a8a8;
 }
 
